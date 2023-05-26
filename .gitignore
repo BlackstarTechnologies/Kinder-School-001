@@ -3,3 +3,5 @@
 *.pem
 
 **/*.txt
+
+node_modules
